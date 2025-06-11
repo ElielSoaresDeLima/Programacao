@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+h1 {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+h2{
+    color: orange;
+}
+
+body{
+    background-color: #293737;
+    color: white;
+    font-family: arial;
+    text-align: center;
+
+ul {
+    list-style-position: inside;
+}
+}
+
+header{
+    border-bottom: 1px solid grey;
+}
+
+footer{
+    border-top: 1px solid grey;
+}
+
+img {
+    width: 650px;
+    height: 200px;
+}
+
+.paragrafo {
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+#fulano {
+font-family: Roboto;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+}
